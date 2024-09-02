@@ -1,0 +1,1938 @@
+[
+  {
+    "id": "llavav1.5_892818",
+    "image": "./vqa_data_aug/image686/image686_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is there a bridge present in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there any water bodies shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_591923",
+    "image": "./vqa_data_aug/image214/image214_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which platform is mentioned in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "bilibili"
+      },
+      {
+        "from": "human",
+        "value": "What weapon is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Gun"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_745231",
+    "image": "./vqa_data_aug/image363/image363_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What language is used in the textual elements of the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_908257",
+    "image": "./vqa_data_aug/image379/image379_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much time is left on the timer?"
+      },
+      {
+        "from": "gpt",
+        "value": "19:58"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_355043",
+    "image": "./vqa_data_aug/image166/image166_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Are there any green icons on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_716498",
+    "image": "./vqa_data_aug/image373/image373_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which team is ranked 1st?"
+      },
+      {
+        "from": "gpt",
+        "value": "FunPlus Phoenix"
+      },
+      {
+        "from": "human",
+        "value": "How many wins does All Gamers have?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      },
+      {
+        "from": "human",
+        "value": "Which team has the highest Map difference?"
+      },
+      {
+        "from": "gpt",
+        "value": "FunPlus Phoenix"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_524351",
+    "image": "./vqa_data_aug/image854/image854_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character wearing on their head?"
+      },
+      {
+        "from": "gpt",
+        "value": "Helmet"
+      },
+      {
+        "from": "human",
+        "value": "What type of environment is in the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Outdoors"
+      },
+      {
+        "from": "human",
+        "value": "Is the character holding any weapons?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_006734",
+    "image": "./vqa_data_aug/image650/image650_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is there a glowing object in the water?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there mountains in the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_025532",
+    "image": "./vqa_data_aug/image464/image464_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the total number of markers on the 10-number line?"
+      },
+      {
+        "from": "gpt",
+        "value": "12"
+      },
+      {
+        "from": "human",
+        "value": "How many markers are there on the 11-number line?"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      },
+      {
+        "from": "human",
+        "value": "What is the range of markers on the 12-number line?"
+      },
+      {
+        "from": "gpt",
+        "value": "1 to 6"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_973772",
+    "image": "./vqa_data_aug/image954/image954_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many stair steps are visible? "
+      },
+      {
+        "from": "gpt",
+        "value": "Three"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_747240",
+    "image": "./vqa_data_aug/image947/image947_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What game is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Genshin Impact"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_912073",
+    "image": "./vqa_data_aug/image103/image103_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the creature standing on a solid surface?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Does the creature appear to have multiple heads?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_457320",
+    "image": "./vqa_data_aug/image887/image887_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many stars are shown beneath the character's name?"
+      },
+      {
+        "from": "gpt",
+        "value": "Five"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_609287",
+    "image": "./vqa_data_aug/image978/image978_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the displayed language other than English?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_671384",
+    "image": "./vqa_data_aug/image875/image875_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the main title displayed on all the covers?"
+      },
+      {
+        "from": "gpt",
+        "value": "Elden Ring"
+      },
+      {
+        "from": "human",
+        "value": "Which item includes the word \"Artbook\" in its title?"
+      },
+      {
+        "from": "gpt",
+        "value": "Digital Artbook & Soundtrack"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_823098",
+    "image": "./vqa_data_aug/image081/image081_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What symbol is predominantly used to mark locations on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Circles"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_606152",
+    "image": "./vqa_data_aug/image296/image296_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What item is visible above the platform?"
+      },
+      {
+        "from": "gpt",
+        "value": "Glowing orb"
+      },
+      {
+        "from": "human",
+        "value": "What is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Staff"
+      },
+      {
+        "from": "human",
+        "value": "What type of environment is the character in?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dungeon"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_927761",
+    "image": "./vqa_data_aug/image791/image791_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is the character near?"
+      },
+      {
+        "from": "gpt",
+        "value": "Pillar"
+      },
+      {
+        "from": "human",
+        "value": "How many health bars are visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "One"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_861839",
+    "image": "./vqa_data_aug/image233/image233_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the level of the weapon shown in the image? "
+      },
+      {
+        "from": "gpt",
+        "value": "+10"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_238364",
+    "image": "./vqa_data_aug/image677/image677_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many different colors are mentioned in the text?"
+      },
+      {
+        "from": "gpt",
+        "value": "Four"
+      },
+      {
+        "from": "human",
+        "value": "What symbol is on the character's forehead?"
+      },
+      {
+        "from": "gpt",
+        "value": "Star"
+      },
+      {
+        "from": "human",
+        "value": "What is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Ball"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_268455",
+    "image": "./vqa_data_aug/image046/image046_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the maximum number of items that can be held?"
+      },
+      {
+        "from": "gpt",
+        "value": "99"
+      },
+      {
+        "from": "human",
+        "value": "How many FP does the item consume?"
+      },
+      {
+        "from": "gpt",
+        "value": "28"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_679610",
+    "image": "./vqa_data_aug/image071/image071_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the physical attack power?"
+      },
+      {
+        "from": "gpt",
+        "value": "240"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_074506",
+    "image": "./vqa_data_aug/image721/image721_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What weapon is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Flaming sword"
+      },
+      {
+        "from": "human",
+        "value": "What is the predominant color of the foliage in the background?"
+      },
+      {
+        "from": "gpt",
+        "value": "Red"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_369530",
+    "image": "./vqa_data_aug/image196/image196_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What activity is the character engaged in?"
+      },
+      {
+        "from": "gpt",
+        "value": "Swimming"
+      },
+      {
+        "from": "human",
+        "value": "What shape is highlighted in red?"
+      },
+      {
+        "from": "gpt",
+        "value": "Circle"
+      },
+      {
+        "from": "human",
+        "value": "What color is the highlighted shape?"
+      },
+      {
+        "from": "gpt",
+        "value": "Red"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_541070",
+    "image": "./vqa_data_aug/image591/image591_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is depicted on the map with a red arrow? "
+      },
+      {
+        "from": "gpt",
+        "value": "Yellow point."
+      },
+      {
+        "from": "human",
+        "value": "How many circular markers are shown on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      },
+      {
+        "from": "human",
+        "value": "What language is used in the map's text?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese."
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_014352",
+    "image": "./vqa_data_aug/image370/image370_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is on the roof of the building?"
+      },
+      {
+        "from": "gpt",
+        "value": "Antenna"
+      },
+      {
+        "from": "human",
+        "value": "What type of terrain surrounds the buildings?"
+      },
+      {
+        "from": "gpt",
+        "value": "Desert"
+      },
+      {
+        "from": "human",
+        "value": "Are there any vehicles present in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_319071",
+    "image": "./vqa_data_aug/image882/image882_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character near in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Table"
+      },
+      {
+        "from": "human",
+        "value": "What color is the chair near the table?"
+      },
+      {
+        "from": "gpt",
+        "value": "Orange"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_279949",
+    "image": "./vqa_data_aug/image633/image633_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What weapon is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Spear"
+      },
+      {
+        "from": "human",
+        "value": "What type of environment is the character in?"
+      },
+      {
+        "from": "gpt",
+        "value": "Forest"
+      },
+      {
+        "from": "human",
+        "value": "Is there a source of light in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_668267",
+    "image": "./vqa_data_aug/image643/image643_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of setting is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dungeon"
+      },
+      {
+        "from": "human",
+        "value": "What is the primary character wearing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Armor"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_724511",
+    "image": "./vqa_data_aug/image849/image849_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What weapon is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword"
+      },
+      {
+        "from": "human",
+        "value": "What type of enemy is flying in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Winged creature"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_275585",
+    "image": "./vqa_data_aug/image300/image300_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of image is depicted?"
+      },
+      {
+        "from": "gpt",
+        "value": "Scroll"
+      },
+      {
+        "from": "human",
+        "value": "What color is associated with the tree mentioned?"
+      },
+      {
+        "from": "gpt",
+        "value": "Golden"
+      },
+      {
+        "from": "human",
+        "value": "Does the text appear to be in English?"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_026339",
+    "image": "./vqa_data_aug/image080/image080_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many large figures are in the image? "
+      },
+      {
+        "from": "gpt",
+        "value": "One"
+      },
+      {
+        "from": "human",
+        "value": "Is the scene set during the day or night? "
+      },
+      {
+        "from": "gpt",
+        "value": "Night"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_382413",
+    "image": "./vqa_data_aug/image387/image387_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What direction does the compass on the map point to?"
+      },
+      {
+        "from": "gpt",
+        "value": "North"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_212937",
+    "image": "./vqa_data_aug/image127/image127_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What language is used in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese"
+      },
+      {
+        "from": "human",
+        "value": "What icon represents a warning or alert?"
+      },
+      {
+        "from": "gpt",
+        "value": "Exclamation mark"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_603254",
+    "image": "./vqa_data_aug/image549/image549_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is there a body of water on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there any location markers on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_565778",
+    "image": "./vqa_data_aug/image470/image470_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many items are there along line 28?"
+      },
+      {
+        "from": "gpt",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_282859",
+    "image": "./vqa_data_aug/image747/image747_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Are there any bodies of water visible on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "What language is the text on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_697459",
+    "image": "./vqa_data_aug/image044/image044_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the weight of the object?"
+      },
+      {
+        "from": "gpt",
+        "value": "0.9"
+      },
+      {
+        "from": "human",
+        "value": "What happens when the health bar is full?"
+      },
+      {
+        "from": "gpt",
+        "value": "Increases attack power"
+      },
+      {
+        "from": "human",
+        "value": "What is the item shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fighting sword amulet"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_740090",
+    "image": "./vqa_data_aug/image826/image826_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword"
+      },
+      {
+        "from": "human",
+        "value": "Is the character facing indoors or outdoors?"
+      },
+      {
+        "from": "gpt",
+        "value": "Outdoors"
+      },
+      {
+        "from": "human",
+        "value": "Is there a navigation compass visible?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_325836",
+    "image": "./vqa_data_aug/image270/image270_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many steps are shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Two"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_590314",
+    "image": "./vqa_data_aug/image618/image618_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of game is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "RPG"
+      },
+      {
+        "from": "human",
+        "value": "How many characters are visible in the foreground?"
+      },
+      {
+        "from": "gpt",
+        "value": "Two"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_966132",
+    "image": "./vqa_data_aug/image352/image352_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What weapon skill is listed in the bottom left?"
+      },
+      {
+        "from": "gpt",
+        "value": "Carian Slicer"
+      },
+      {
+        "from": "human",
+        "value": "What is the website mentioned in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "POWERPYX.COM"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_242646",
+    "image": "./vqa_data_aug/image867/image867_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the game depicted on the cover?"
+      },
+      {
+        "from": "gpt",
+        "value": "Elden Ring"
+      },
+      {
+        "from": "human",
+        "value": "Which gaming platforms are mentioned on the covers in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "PS4, PS5"
+      },
+      {
+        "from": "human",
+        "value": "What type of setting is featured in the background of the game cover?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_119154",
+    "image": "./vqa_data_aug/image367/image367_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the character in the image armored?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there two options for making a selection in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Is the environment in the image covered in web-like material?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_107044",
+    "image": "./vqa_data_aug/image099/image099_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the attack power in physical damage indicated?"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      },
+      {
+        "from": "human",
+        "value": "How many consumables are shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "One"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_054627",
+    "image": "./vqa_data_aug/image389/image389_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of material is the pendant made of?"
+      },
+      {
+        "from": "gpt",
+        "value": "Stone"
+      },
+      {
+        "from": "human",
+        "value": "What feature is mentioned about the surface of the pendant?"
+      },
+      {
+        "from": "gpt",
+        "value": "Several holes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_170676",
+    "image": "./vqa_data_aug/image990/image990_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many round bar stools are there?"
+      },
+      {
+        "from": "gpt",
+        "value": "Three"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_695647",
+    "image": "./vqa_data_aug/image344/image344_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of map is shown?"
+      },
+      {
+        "from": "gpt",
+        "value": "Game map"
+      },
+      {
+        "from": "human",
+        "value": "Is there text in a non-English language?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_877699",
+    "image": "./vqa_data_aug/image781/image781_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What kind of pattern is on the ground?"
+      },
+      {
+        "from": "gpt",
+        "value": "Circular"
+      },
+      {
+        "from": "human",
+        "value": "Is the character wearing a mask?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_727245",
+    "image": "./vqa_data_aug/image220/image220_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many total steps are shown in the image for the puzzle?"
+      },
+      {
+        "from": "gpt",
+        "value": "Two"
+      },
+      {
+        "from": "human",
+        "value": "What version is mentioned in the title of the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "2.3"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_197414",
+    "image": "./vqa_data_aug/image964/image964_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many images are shown in the composition?"
+      },
+      {
+        "from": "gpt",
+        "value": "Four"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_236588",
+    "image": "./vqa_data_aug/image348/image348_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the figure in the center of the image holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Weapon"
+      },
+      {
+        "from": "human",
+        "value": "What is the environment in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Rocky"
+      },
+      {
+        "from": "human",
+        "value": "Is it raining in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_277380",
+    "image": "./vqa_data_aug/image714/image714_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character in the foreground doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Laying down."
+      },
+      {
+        "from": "human",
+        "value": "What type of environment is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Forest."
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_272386",
+    "image": "./vqa_data_aug/image163/image163_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What does the person standing on the sidewalk hold in their right hand?"
+      },
+      {
+        "from": "gpt",
+        "value": "A phone"
+      },
+      {
+        "from": "human",
+        "value": "What vehicle can be seen on the road?"
+      },
+      {
+        "from": "gpt",
+        "value": "None"
+      },
+      {
+        "from": "human",
+        "value": "Is there any sign written in Chinese characters in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_178159",
+    "image": "./vqa_data_aug/image825/image825_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character holding in its right hand?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword"
+      },
+      {
+        "from": "human",
+        "value": "What is the character standing on?"
+      },
+      {
+        "from": "gpt",
+        "value": "Roof"
+      },
+      {
+        "from": "human",
+        "value": "Is there grass visible in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_883041",
+    "image": "./vqa_data_aug/image777/image777_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the stance of the figure?"
+      },
+      {
+        "from": "gpt",
+        "value": "Arms extended"
+      },
+      {
+        "from": "human",
+        "value": "Is the figure clothed?"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      },
+      {
+        "from": "human",
+        "value": "What is the background color?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dark"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_736400",
+    "image": "./vqa_data_aug/image006/image006_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What star rating does the sword have?"
+      },
+      {
+        "from": "gpt",
+        "value": "Five"
+      },
+      {
+        "from": "human",
+        "value": "What is the name of the sword?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword of Broken"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_473157",
+    "image": "./vqa_data_aug/image890/image890_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many levels are depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Three"
+      },
+      {
+        "from": "human",
+        "value": "How many treasure chests are in B1 level?"
+      },
+      {
+        "from": "gpt",
+        "value": "Four"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_214628",
+    "image": "./vqa_data_aug/image828/image828_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of game interface is shown?"
+      },
+      {
+        "from": "gpt",
+        "value": "RPG"
+      },
+      {
+        "from": "human",
+        "value": "What object is the character holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword"
+      },
+      {
+        "from": "human",
+        "value": "What is depicted on the floor in front of the character?"
+      },
+      {
+        "from": "gpt",
+        "value": "Blood"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_836257",
+    "image": "./vqa_data_aug/image284/image284_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of character is visible in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Game character"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_819056",
+    "image": "./vqa_data_aug/image603/image603_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the rider mounted on?"
+      },
+      {
+        "from": "gpt",
+        "value": "Horse"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_214476",
+    "image": "./vqa_data_aug/image459/image459_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is prominently visible in the background of the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree"
+      },
+      {
+        "from": "human",
+        "value": "What time of day does it appear to be in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sunrise/sunset"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_367286",
+    "image": "./vqa_data_aug/image225/image225_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many wheels does the vehicle have?"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      },
+      {
+        "from": "human",
+        "value": "What is mounted on top of the vehicle?"
+      },
+      {
+        "from": "gpt",
+        "value": "Gun turret."
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_550496",
+    "image": "./vqa_data_aug/image429/image429_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of atmosphere does the room in the image convey?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dark"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_940574",
+    "image": "./vqa_data_aug/image718/image718_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of content is in this image? "
+      },
+      {
+        "from": "gpt",
+        "value": "Map"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_129661",
+    "image": "./vqa_data_aug/image665/image665_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What game is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Honkai: Star Rail"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_311351",
+    "image": "./vqa_data_aug/image574/image574_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What kind of heart does the king of Latain possess?"
+      },
+      {
+        "from": "gpt",
+        "value": "Warm"
+      },
+      {
+        "from": "human",
+        "value": "Who discovered the special qualities of the king of Latain?"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_376785",
+    "image": "./vqa_data_aug/image027/image027_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of landscape is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Desert"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_076138",
+    "image": "./vqa_data_aug/image616/image616_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the level of the skill?"
+      },
+      {
+        "from": "gpt",
+        "value": "1/1"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_250392",
+    "image": "./vqa_data_aug/image517/image517_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of map is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fantasy"
+      },
+      {
+        "from": "human",
+        "value": "Is there a body of water visible on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_519120",
+    "image": "./vqa_data_aug/image223/image223_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of vehicle is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Helicopter"
+      },
+      {
+        "from": "human",
+        "value": "How many main rotor blades does the helicopter have?"
+      },
+      {
+        "from": "gpt",
+        "value": "Four"
+      },
+      {
+        "from": "human",
+        "value": "What is mounted under the helicopter's stub wings?"
+      },
+      {
+        "from": "gpt",
+        "value": "Missiles"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_642782",
+    "image": "./vqa_data_aug/image095/image095_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the general theme of the background in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Map"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_078531",
+    "image": "./vqa_data_aug/image030/image030_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of map is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_825242",
+    "image": "./vqa_data_aug/image032/image032_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of map is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Game map"
+      },
+      {
+        "from": "human",
+        "value": "Is there a coastal area visible on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there multiple marked locations on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_746610",
+    "image": "./vqa_data_aug/image604/image604_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the background structure?"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_982642",
+    "image": "./vqa_data_aug/image558/image558_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of terrain is the character navigating?"
+      },
+      {
+        "from": "gpt",
+        "value": "Rocky"
+      },
+      {
+        "from": "human",
+        "value": "Is there a visible shield in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_114002",
+    "image": "./vqa_data_aug/image913/image913_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the level of the character?"
+      },
+      {
+        "from": "gpt",
+        "value": "80"
+      },
+      {
+        "from": "human",
+        "value": "What is the crit rate percentage?"
+      },
+      {
+        "from": "gpt",
+        "value": "51.6%"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_391021",
+    "image": "./vqa_data_aug/image758/image758_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is in the center of the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A crosshair."
+      },
+      {
+        "from": "human",
+        "value": "Is there water shown on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_841173",
+    "image": "./vqa_data_aug/image692/image692_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the character in the foreground holding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sword"
+      },
+      {
+        "from": "human",
+        "value": "What is the primary color of the field?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yellow"
+      },
+      {
+        "from": "human",
+        "value": "How many characters are visible in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Two"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_424388",
+    "image": "./vqa_data_aug/image104/image104_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of machine is shown in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Robot"
+      },
+      {
+        "from": "human",
+        "value": "Is there text written in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_627936",
+    "image": "./vqa_data_aug/image754/image754_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of game does this image likely depict?"
+      },
+      {
+        "from": "gpt",
+        "value": "Map-based"
+      },
+      {
+        "from": "human",
+        "value": "Is there a symbol resembling a bridge in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Are there buildings marked on the map?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_011037",
+    "image": "./vqa_data_aug/image142/image142_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the person holding in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Gun"
+      },
+      {
+        "from": "human",
+        "value": "Are there fountains visible in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      },
+      {
+        "from": "human",
+        "value": "Is there text overlaid on the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_628773",
+    "image": "./vqa_data_aug/image228/image228_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the person riding?"
+      },
+      {
+        "from": "gpt",
+        "value": "Horse"
+      },
+      {
+        "from": "human",
+        "value": "What is the person confronting?"
+      },
+      {
+        "from": "gpt",
+        "value": "Creature"
+      },
+      {
+        "from": "human",
+        "value": "What season is represented in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Autumn"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_915536",
+    "image": "./vqa_data_aug/image250/image250_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the person in the image doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Kneeling"
+      },
+      {
+        "from": "human",
+        "value": "What is the object in front of the person?"
+      },
+      {
+        "from": "gpt",
+        "value": "Statue"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_070640",
+    "image": "./vqa_data_aug/image281/image281_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of furniture is visible in the center of the room?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chairs"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_840629",
+    "image": "./vqa_data_aug/image025/image025_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is prominently featured in the image's center?"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree"
+      },
+      {
+        "from": "human",
+        "value": "How many characters are visible in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "Two"
+      },
+      {
+        "from": "human",
+        "value": "What is hanging from the tree branches?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lights"
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_535121",
+    "image": "./vqa_data_aug/image114/image114_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is depicted in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "A glowing figure using magic."
+      },
+      {
+        "from": "human",
+        "value": "What does the figure appear to be doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Disappearing."
+      },
+      {
+        "from": "human",
+        "value": "What language is the text in?"
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese."
+      }
+    ]
+  },
+  {
+    "id": "llavav1.5_182040",
+    "image": "./vqa_data_aug/image654/image654_bgr.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the item's effect when used? "
+      },
+      {
+        "from": "gpt",
+        "value": "Transform into a dragon"
+      }
+    ]
+  }
+]
