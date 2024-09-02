@@ -1,0 +1,882 @@
+[
+    {
+        "question": "Is there a bridge present in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there any water bodies shown in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Which platform is mentioned in the image?",
+        "actual_answer": "bilibili",
+        "predicted_answer": "Bilibili"
+    },
+    {
+        "question": "What weapon is the character holding?",
+        "actual_answer": "Gun",
+        "predicted_answer": "Rifle"
+    },
+    {
+        "question": "What language is used in the textual elements of the image?",
+        "actual_answer": "Chinese",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "How much time is left on the timer?",
+        "actual_answer": "19:58",
+        "predicted_answer": "28:59"
+    },
+    {
+        "question": "Are there any green icons on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Which team is ranked 1st?",
+        "actual_answer": "FunPlus Phoenix",
+        "predicted_answer": "Phoenix"
+    },
+    {
+        "question": "How many wins does All Gamers have?",
+        "actual_answer": "6",
+        "predicted_answer": "6"
+    },
+    {
+        "question": "Which team has the highest Map difference?",
+        "actual_answer": "FunPlus Phoenix",
+        "predicted_answer": "Phoenix"
+    },
+    {
+        "question": "What is the character wearing on their head?",
+        "actual_answer": "Helmet",
+        "predicted_answer": "White helmet"
+    },
+    {
+        "question": "What type of environment is in the background?",
+        "actual_answer": "Outdoors",
+        "predicted_answer": "Post-apocalyptic"
+    },
+    {
+        "question": "Is the character holding any weapons?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Is there a glowing object in the water?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there mountains in the background?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the total number of markers on the 10-number line?",
+        "actual_answer": "12",
+        "predicted_answer": "12"
+    },
+    {
+        "question": "How many markers are there on the 11-number line?",
+        "actual_answer": "5",
+        "predicted_answer": "5"
+    },
+    {
+        "question": "What is the range of markers on the 12-number line?",
+        "actual_answer": "1 to 6",
+        "predicted_answer": "1 - 6"
+    },
+    {
+        "question": "How many stair steps are visible? ",
+        "actual_answer": "Three",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What game is depicted in the image?",
+        "actual_answer": "Genshin Impact",
+        "predicted_answer": "Elden Ring"
+    },
+    {
+        "question": "Is the creature standing on a solid surface?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Does the creature appear to have multiple heads?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "How many stars are shown beneath the character's name?",
+        "actual_answer": "Five",
+        "predicted_answer": "Five"
+    },
+    {
+        "question": "What is the displayed language other than English?",
+        "actual_answer": "Chinese",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "What is the main title displayed on all the covers?",
+        "actual_answer": "Elden Ring",
+        "predicted_answer": "Elden Ring"
+    },
+    {
+        "question": "Which item includes the word \"Artbook\" in its title?",
+        "actual_answer": "Digital Artbook & Soundtrack",
+        "predicted_answer": "The Ring of Steel, Book 4"
+    },
+    {
+        "question": "What symbol is predominantly used to mark locations on the map?",
+        "actual_answer": "Circles",
+        "predicted_answer": "Yellow circles"
+    },
+    {
+        "question": "What item is visible above the platform?",
+        "actual_answer": "Glowing orb",
+        "predicted_answer": "Flask of Crimson Tears +12"
+    },
+    {
+        "question": "What is the character holding?",
+        "actual_answer": "Staff",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What type of environment is the character in?",
+        "actual_answer": "Dungeon",
+        "predicted_answer": "Dungeon"
+    },
+    {
+        "question": "What object is the character near?",
+        "actual_answer": "Pillar",
+        "predicted_answer": "Tomb"
+    },
+    {
+        "question": "How many health bars are visible?",
+        "actual_answer": "One",
+        "predicted_answer": "One"
+    },
+    {
+        "question": "What is the level of the weapon shown in the image? ",
+        "actual_answer": "+10",
+        "predicted_answer": "+24"
+    },
+    {
+        "question": "How many different colors are mentioned in the text?",
+        "actual_answer": "Four",
+        "predicted_answer": "Four"
+    },
+    {
+        "question": "What symbol is on the character's forehead?",
+        "actual_answer": "Star",
+        "predicted_answer": "Star"
+    },
+    {
+        "question": "What is the character holding?",
+        "actual_answer": "Ball",
+        "predicted_answer": "Ball"
+    },
+    {
+        "question": "What is the maximum number of items that can be held?",
+        "actual_answer": "99",
+        "predicted_answer": "99"
+    },
+    {
+        "question": "How many FP does the item consume?",
+        "actual_answer": "28",
+        "predicted_answer": "0"
+    },
+    {
+        "question": "What is the physical attack power?",
+        "actual_answer": "240",
+        "predicted_answer": "183"
+    },
+    {
+        "question": "What weapon is the character holding?",
+        "actual_answer": "Flaming sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What is the predominant color of the foliage in the background?",
+        "actual_answer": "Red",
+        "predicted_answer": "Red"
+    },
+    {
+        "question": "What activity is the character engaged in?",
+        "actual_answer": "Swimming",
+        "predicted_answer": "Jumping"
+    },
+    {
+        "question": "What shape is highlighted in red?",
+        "actual_answer": "Circle",
+        "predicted_answer": "Circle"
+    },
+    {
+        "question": "What color is the highlighted shape?",
+        "actual_answer": "Red",
+        "predicted_answer": "Red"
+    },
+    {
+        "question": "What object is depicted on the map with a red arrow? ",
+        "actual_answer": "Yellow point.",
+        "predicted_answer": "A marker."
+    },
+    {
+        "question": "How many circular markers are shown on the map?",
+        "actual_answer": "Four.",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What language is used in the map's text?",
+        "actual_answer": "Chinese.",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "What is on the roof of the building?",
+        "actual_answer": "Antenna",
+        "predicted_answer": "Antenna"
+    },
+    {
+        "question": "What type of terrain surrounds the buildings?",
+        "actual_answer": "Desert",
+        "predicted_answer": "Desert"
+    },
+    {
+        "question": "Are there any vehicles present in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the character near in the image?",
+        "actual_answer": "Table",
+        "predicted_answer": "White-haired creature"
+    },
+    {
+        "question": "What color is the chair near the table?",
+        "actual_answer": "Orange",
+        "predicted_answer": "Orange"
+    },
+    {
+        "question": "What weapon is the character holding?",
+        "actual_answer": "Spear",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What type of environment is the character in?",
+        "actual_answer": "Forest",
+        "predicted_answer": "Forest"
+    },
+    {
+        "question": "Is there a source of light in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What type of setting is depicted in the image?",
+        "actual_answer": "Dungeon",
+        "predicted_answer": "Dungeon"
+    },
+    {
+        "question": "What is the primary character wearing?",
+        "actual_answer": "Armor",
+        "predicted_answer": "White coat"
+    },
+    {
+        "question": "What weapon is the character holding?",
+        "actual_answer": "Sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What type of enemy is flying in the image?",
+        "actual_answer": "Winged creature",
+        "predicted_answer": "Winged creature"
+    },
+    {
+        "question": "What type of image is depicted?",
+        "actual_answer": "Scroll",
+        "predicted_answer": "Video game cover"
+    },
+    {
+        "question": "What color is associated with the tree mentioned?",
+        "actual_answer": "Golden",
+        "predicted_answer": "Golden"
+    },
+    {
+        "question": "Does the text appear to be in English?",
+        "actual_answer": "No",
+        "predicted_answer": "No"
+    },
+    {
+        "question": "How many large figures are in the image? ",
+        "actual_answer": "One",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "Is the scene set during the day or night? ",
+        "actual_answer": "Night",
+        "predicted_answer": "Night"
+    },
+    {
+        "question": "What direction does the compass on the map point to?",
+        "actual_answer": "North",
+        "predicted_answer": "North"
+    },
+    {
+        "question": "What language is used in the image?",
+        "actual_answer": "Chinese",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "What icon represents a warning or alert?",
+        "actual_answer": "Exclamation mark",
+        "predicted_answer": "Exclamation mark"
+    },
+    {
+        "question": "Is there a body of water on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there any location markers on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "How many items are there along line 28?",
+        "actual_answer": "10",
+        "predicted_answer": "9"
+    },
+    {
+        "question": "Are there any bodies of water visible on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What language is the text on the map?",
+        "actual_answer": "Chinese",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "What is the weight of the object?",
+        "actual_answer": "0.9",
+        "predicted_answer": "0.9"
+    },
+    {
+        "question": "What happens when the health bar is full?",
+        "actual_answer": "Increases attack power",
+        "predicted_answer": "Increases attack power"
+    },
+    {
+        "question": "What is the item shown in the image?",
+        "actual_answer": "Fighting sword amulet",
+        "predicted_answer": "A special elixir/golden flask."
+    },
+    {
+        "question": "What is the character holding?",
+        "actual_answer": "Sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "Is the character facing indoors or outdoors?",
+        "actual_answer": "Outdoors",
+        "predicted_answer": "Outdoors"
+    },
+    {
+        "question": "Is there a navigation compass visible?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "How many steps are shown in the image?",
+        "actual_answer": "Two",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What type of game is shown in the image?",
+        "actual_answer": "RPG",
+        "predicted_answer": "Role-Playing"
+    },
+    {
+        "question": "How many characters are visible in the foreground?",
+        "actual_answer": "Two",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What weapon skill is listed in the bottom left?",
+        "actual_answer": "Carian Slicer",
+        "predicted_answer": "Carian Slicer"
+    },
+    {
+        "question": "What is the website mentioned in the image?",
+        "actual_answer": "POWERPYX.COM",
+        "predicted_answer": "powerpyx.com"
+    },
+    {
+        "question": "What is the name of the game depicted on the cover?",
+        "actual_answer": "Elden Ring",
+        "predicted_answer": "Elden Ring"
+    },
+    {
+        "question": "Which gaming platforms are mentioned on the covers in the image?",
+        "actual_answer": "PS4, PS5",
+        "predicted_answer": "PS4, PS5"
+    },
+    {
+        "question": "What type of setting is featured in the background of the game cover?",
+        "actual_answer": "Fantasy",
+        "predicted_answer": "Fantasy"
+    },
+    {
+        "question": "Is the character in the image armored?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there two options for making a selection in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Is the environment in the image covered in web-like material?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the attack power in physical damage indicated?",
+        "actual_answer": "0",
+        "predicted_answer": "0"
+    },
+    {
+        "question": "How many consumables are shown in the image?",
+        "actual_answer": "One",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What type of material is the pendant made of?",
+        "actual_answer": "Stone",
+        "predicted_answer": "Stone"
+    },
+    {
+        "question": "What feature is mentioned about the surface of the pendant?",
+        "actual_answer": "Several holes",
+        "predicted_answer": "Several holes"
+    },
+    {
+        "question": "How many round bar stools are there?",
+        "actual_answer": "Three",
+        "predicted_answer": "Three"
+    },
+    {
+        "question": "What type of map is shown?",
+        "actual_answer": "Game map",
+        "predicted_answer": "Video game"
+    },
+    {
+        "question": "Is there text in a non-English language?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What kind of pattern is on the ground?",
+        "actual_answer": "Circular",
+        "predicted_answer": "Circular"
+    },
+    {
+        "question": "Is the character wearing a mask?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "How many total steps are shown in the image for the puzzle?",
+        "actual_answer": "Two",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What version is mentioned in the title of the image?",
+        "actual_answer": "2.3",
+        "predicted_answer": "4.7"
+    },
+    {
+        "question": "How many images are shown in the composition?",
+        "actual_answer": "Four",
+        "predicted_answer": "Four"
+    },
+    {
+        "question": "What is the figure in the center of the image holding?",
+        "actual_answer": "Weapon",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What is the environment in the image?",
+        "actual_answer": "Rocky",
+        "predicted_answer": "Rocky terrain"
+    },
+    {
+        "question": "Is it raining in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the character in the foreground doing?",
+        "actual_answer": "Laying down.",
+        "predicted_answer": "Laying down."
+    },
+    {
+        "question": "What type of environment is depicted in the image?",
+        "actual_answer": "Forest.",
+        "predicted_answer": "Dungeon"
+    },
+    {
+        "question": "What does the person standing on the sidewalk hold in their right hand?",
+        "actual_answer": "A phone",
+        "predicted_answer": "Nothing"
+    },
+    {
+        "question": "What vehicle can be seen on the road?",
+        "actual_answer": "None",
+        "predicted_answer": "None"
+    },
+    {
+        "question": "Is there any sign written in Chinese characters in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the character holding in its right hand?",
+        "actual_answer": "Sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What is the character standing on?",
+        "actual_answer": "Roof",
+        "predicted_answer": "A pile of bodies"
+    },
+    {
+        "question": "Is there grass visible in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the stance of the figure?",
+        "actual_answer": "Arms extended",
+        "predicted_answer": "Arms extended"
+    },
+    {
+        "question": "Is the figure clothed?",
+        "actual_answer": "No",
+        "predicted_answer": "No"
+    },
+    {
+        "question": "What is the background color?",
+        "actual_answer": "Dark",
+        "predicted_answer": "Dark"
+    },
+    {
+        "question": "What star rating does the sword have?",
+        "actual_answer": "Five",
+        "predicted_answer": "5"
+    },
+    {
+        "question": "What is the name of the sword?",
+        "actual_answer": "Sword of Broken",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "How many levels are depicted in the image?",
+        "actual_answer": "Three",
+        "predicted_answer": "Three"
+    },
+    {
+        "question": "How many treasure chests are in B1 level?",
+        "actual_answer": "Four",
+        "predicted_answer": "One"
+    },
+    {
+        "question": "What type of game interface is shown?",
+        "actual_answer": "RPG",
+        "predicted_answer": "Role-Playing"
+    },
+    {
+        "question": "What object is the character holding?",
+        "actual_answer": "Sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What is depicted on the floor in front of the character?",
+        "actual_answer": "Blood",
+        "predicted_answer": "Blood"
+    },
+    {
+        "question": "What type of character is visible in the image?",
+        "actual_answer": "Game character",
+        "predicted_answer": "Game characters"
+    },
+    {
+        "question": "What is the rider mounted on?",
+        "actual_answer": "Horse",
+        "predicted_answer": "Horse"
+    },
+    {
+        "question": "What is prominently visible in the background of the image?",
+        "actual_answer": "Tree",
+        "predicted_answer": "Large skull"
+    },
+    {
+        "question": "What time of day does it appear to be in the image?",
+        "actual_answer": "Sunrise/sunset",
+        "predicted_answer": "Night."
+    },
+    {
+        "question": "How many wheels does the vehicle have?",
+        "actual_answer": "Eight.",
+        "predicted_answer": "Eight"
+    },
+    {
+        "question": "What is mounted on top of the vehicle?",
+        "actual_answer": "Gun turret.",
+        "predicted_answer": "Gun turret"
+    },
+    {
+        "question": "What type of atmosphere does the room in the image convey?",
+        "actual_answer": "Dark",
+        "predicted_answer": "Dark"
+    },
+    {
+        "question": "What type of content is in this image? ",
+        "actual_answer": "Map",
+        "predicted_answer": "Science Fiction & Fantasy"
+    },
+    {
+        "question": "What game is shown in the image?",
+        "actual_answer": "Honkai: Star Rail",
+        "predicted_answer": "Elden Ring"
+    },
+    {
+        "question": "What kind of heart does the king of Latain possess?",
+        "actual_answer": "Warm",
+        "predicted_answer": "Warm"
+    },
+    {
+        "question": "Who discovered the special qualities of the king of Latain?",
+        "actual_answer": "Michael",
+        "predicted_answer": "David Christopher Lane"
+    },
+    {
+        "question": "What type of landscape is shown in the image?",
+        "actual_answer": "Desert",
+        "predicted_answer": "Desert"
+    },
+    {
+        "question": "What is the level of the skill?",
+        "actual_answer": "1/1",
+        "predicted_answer": "4"
+    },
+    {
+        "question": "What type of map is depicted in the image?",
+        "actual_answer": "Fantasy",
+        "predicted_answer": "Fantasy"
+    },
+    {
+        "question": "Is there a body of water visible on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What type of vehicle is shown in the image?",
+        "actual_answer": "Helicopter",
+        "predicted_answer": "Helicopter"
+    },
+    {
+        "question": "How many main rotor blades does the helicopter have?",
+        "actual_answer": "Four",
+        "predicted_answer": "Four"
+    },
+    {
+        "question": "What is mounted under the helicopter's stub wings?",
+        "actual_answer": "Missiles",
+        "predicted_answer": "Missiles"
+    },
+    {
+        "question": "What is the general theme of the background in the image?",
+        "actual_answer": "Map",
+        "predicted_answer": "Mountainous terrain"
+    },
+    {
+        "question": "What type of map is depicted in the image?",
+        "actual_answer": "Fantasy",
+        "predicted_answer": "Fantasy"
+    },
+    {
+        "question": "What type of map is shown in the image?",
+        "actual_answer": "Game map",
+        "predicted_answer": "Game"
+    },
+    {
+        "question": "Is there a coastal area visible on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there multiple marked locations on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the background structure?",
+        "actual_answer": "Tree",
+        "predicted_answer": "Mountain"
+    },
+    {
+        "question": "What type of terrain is the character navigating?",
+        "actual_answer": "Rocky",
+        "predicted_answer": "Rocky"
+    },
+    {
+        "question": "Is there a visible shield in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the level of the character?",
+        "actual_answer": "80",
+        "predicted_answer": "80"
+    },
+    {
+        "question": "What is the crit rate percentage?",
+        "actual_answer": "51.6%",
+        "predicted_answer": "40.0%"
+    },
+    {
+        "question": "What is in the center of the image?",
+        "actual_answer": "A crosshair.",
+        "predicted_answer": "A red highlighted area"
+    },
+    {
+        "question": "Is there water shown on the map?",
+        "actual_answer": "Yes.",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the character in the foreground holding?",
+        "actual_answer": "Sword",
+        "predicted_answer": "Sword"
+    },
+    {
+        "question": "What is the primary color of the field?",
+        "actual_answer": "Yellow",
+        "predicted_answer": "Yellow"
+    },
+    {
+        "question": "How many characters are visible in the image?",
+        "actual_answer": "Two",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What type of machine is shown in the image?",
+        "actual_answer": "Robot",
+        "predicted_answer": "Robot"
+    },
+    {
+        "question": "Is there text written in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What type of game does this image likely depict?",
+        "actual_answer": "Map-based",
+        "predicted_answer": "Role-Playing"
+    },
+    {
+        "question": "Is there a symbol resembling a bridge in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Are there buildings marked on the map?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the person holding in the image?",
+        "actual_answer": "Gun",
+        "predicted_answer": "Rifle"
+    },
+    {
+        "question": "Are there fountains visible in the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "Is there text overlaid on the image?",
+        "actual_answer": "Yes",
+        "predicted_answer": "Yes"
+    },
+    {
+        "question": "What is the person riding?",
+        "actual_answer": "Horse",
+        "predicted_answer": "Horse"
+    },
+    {
+        "question": "What is the person confronting?",
+        "actual_answer": "Creature",
+        "predicted_answer": "Monster"
+    },
+    {
+        "question": "What season is represented in the image?",
+        "actual_answer": "Autumn",
+        "predicted_answer": "Fall"
+    },
+    {
+        "question": "What is the person in the image doing?",
+        "actual_answer": "Kneeling",
+        "predicted_answer": "Kneeling"
+    },
+    {
+        "question": "What is the object in front of the person?",
+        "actual_answer": "Statue",
+        "predicted_answer": "A large stone tablet."
+    },
+    {
+        "question": "What type of furniture is visible in the center of the room?",
+        "actual_answer": "Chairs",
+        "predicted_answer": "Chairs"
+    },
+    {
+        "question": "What is prominently featured in the image's center?",
+        "actual_answer": "Tree",
+        "predicted_answer": "Tree"
+    },
+    {
+        "question": "How many characters are visible in the image?",
+        "actual_answer": "Two",
+        "predicted_answer": "Two"
+    },
+    {
+        "question": "What is hanging from the tree branches?",
+        "actual_answer": "Lights",
+        "predicted_answer": "Lights"
+    },
+    {
+        "question": "What is depicted in the image?",
+        "actual_answer": "A glowing figure using magic.",
+        "predicted_answer": "A glowing figure using magic."
+    },
+    {
+        "question": "What does the figure appear to be doing?",
+        "actual_answer": "Disappearing.",
+        "predicted_answer": "Disappearing"
+    },
+    {
+        "question": "What language is the text in?",
+        "actual_answer": "Chinese.",
+        "predicted_answer": "Chinese"
+    },
+    {
+        "question": "What is the item's effect when used? ",
+        "actual_answer": "Transform into a dragon",
+        "predicted_answer": "Transform into a dragon"
+    }
+]
