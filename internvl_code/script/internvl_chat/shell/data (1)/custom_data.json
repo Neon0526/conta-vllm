@@ -1,0 +1,9 @@
+{
+    "custom-dataset-1": {
+      "root": "/home/new/桌面/intern/InternVL",
+      "annotation": "/home/new/桌面/intern/InternVL/vqa-en/intern_train_bgr2.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": "1800"
+    }
+  }
